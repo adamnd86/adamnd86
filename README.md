@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adamnd86
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python, Data Analysis
-- 💞️ I’m looking to collaborate on data analysis project
+- 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me: Adamnd86@gmail.com
 
 <!---
